@@ -1,0 +1,24 @@
+body{
+    background-color: #24353F;
+}
+.text-head h1{
+    color: #1A8EA2 !important;
+}
+body {
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#home {
+    height: 100vh;
+}
+
+.group {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+#username {
+    color: #17A2B8 !important;
+
+}
+
+
